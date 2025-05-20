@@ -1,0 +1,25 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer record rim -->
+  <circle cx="100" cy="100" r="95" fill="#333333" />
+  
+  <!-- Inner vinyl area -->
+  <circle cx="100" cy="100" r="85" fill="#1A1A1A" />
+  
+  <!-- Record grooves -->
+  <circle cx="100" cy="100" r="75" stroke="#222222" stroke-width="0.5" fill="none" />
+  <circle cx="100" cy="100" r="65" stroke="#222222" stroke-width="0.5" fill="none" />
+  <circle cx="100" cy="100" r="55" stroke="#222222" stroke-width="0.5" fill="none" />
+  <circle cx="100" cy="100" r="45" stroke="#222222" stroke-width="0.5" fill="none" />
+  <circle cx="100" cy="100" r="35" stroke="#222222" stroke-width="0.5" fill="none" />
+  
+  <!-- Center label -->
+  <circle cx="100" cy="100" r="25" fill="#4CAF50" />
+  
+  <!-- Center hole -->
+  <circle cx="100" cy="100" r="5" fill="#1A1A1A" />
+  
+  <!-- Text on label -->
+  <text x="100" y="95" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="12">VINYL</text>
+  <text x="100" y="108" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="12">VAULT</text>
+  
+</svg>
